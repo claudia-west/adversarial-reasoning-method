@@ -33,7 +33,7 @@ The manuscript proposes a small-scale case-series feasibility pilot as a precurs
 
 **Current version:** ARM v1.7 (September 2026). See `/manuscript/ARM_v1.7.pdf`
 
-**DOI:** _TBD_
+**DOI:** 10.5281/zenodo.22576559
 
 ## Repository contents
 
