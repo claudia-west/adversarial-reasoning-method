@@ -31,7 +31,7 @@ The manuscript proposes a small-scale case-series feasibility pilot as a precurs
 
 ## Manuscript
 
-**Current version:** ARM v1.7 (September 2026) — see `/manuscript/Adversarial Reasoning Method White Paper v1.7 (September 2026).pdf`
+**Current version:** ARM v1.7 (September 2026). See `/manuscript/Adversarial Reasoning Method White Paper v1.7 (September 2026).pdf`
 
 **DOI:** _TBD_
 
