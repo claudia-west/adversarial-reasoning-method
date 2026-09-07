@@ -10,14 +10,10 @@ version: 1.7.0
 date-released: 2026-09-01
 url: "https://github.com/claudia-west/adversarial-reasoning-method"
 license: CC-BY-NC-ND-4.0
-abstract:
-  ARM is a conceptual, eight-step framework proposal for structured clinical
-  diagnostic reasoning (Observe, Represent, Compete, Attack, Challenge,
-  Update, Reflect, Integrate). It has not been empirically validated. The
-  manuscript proposes a case-series feasibility pilot as a precursor to
-  simulation-based and randomized evaluation.
+abstract: >
+  ARM is a conceptual, eight-step framework proposal for structured clinical diagnostic reasoning (Observe, Represent, Compete, Attack, Challenge, Update, Reflect, Integrate). It has not been empirically validated. The manuscript proposes a case-series feasibility pilot as a precursor to simulation-based and randomized evaluation.
 keywords:
-  - clinical reasoning
-  - diagnostic reasoning
-  - diagnostic error
-  - medical education
+  - "clinical reasoning"
+  - "diagnostic reasoning"
+  - "diagnostic error"
+  - "medical education"
