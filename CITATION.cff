@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+type: software
+title: "The Adversarial Reasoning Method: A Conceptual Framework Proposal Emphasizing Reflection and Long-Term Pattern Integration for Structured Clinical Diagnostic Reasoning"
+authors:
+  - family-names: West
+    given-names: Claudia
+    email: westcw01@gmail.com
+version: 1.7.0
+date-released: 2026-09-01
+url: "https://github.com/claudia-west/adversarial-reasoning-method"
+license: CC-BY-NC-ND-4.0
+abstract: >
+  ARM is a conceptual, eight-step framework proposal for structured clinical
+  diagnostic reasoning (Observe, Represent, Compete, Attack, Challenge,
+  Update, Reflect, Integrate). It has not been empirically validated. The
+  manuscript proposes a case-series feasibility pilot as a precursor to
+  simulation-based and randomized evaluation.
+keywords:
+  - clinical reasoning
+  - diagnostic reasoning
+  - diagnostic error
+  - medical education
