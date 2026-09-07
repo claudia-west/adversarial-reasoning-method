@@ -6,7 +6,7 @@ authors:
   - family-names: West
     given-names: Claudia
     email: westcw01@gmail.com
-version: 1.7.0
+version: "1.7"
 date-released: 2026-09-01
 url: "https://github.com/claudia-west/adversarial-reasoning-method"
 license: CC-BY-NC-ND-4.0
