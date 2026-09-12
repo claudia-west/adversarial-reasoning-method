@@ -38,11 +38,12 @@ The manuscript proposes a small-scale case-series feasibility pilot as a precurs
 ## Repository contents
 
 ```
-/manuscript     Current and archived manuscript PDFs
-README.md       This file
-CHANGELOG.md    Version history
-CITATION.cff    Machine-readable citation metadata
-LICENSE.md      License and reuse terms
+/manuscript         Current and archived manuscript PDFs
+/one_page_summary   Current and archived one page summary PDFs
+README.md           This file
+CHANGELOG.md        Version history
+CITATION.cff        Machine-readable citation metadata
+LICENSE.md          License and reuse terms
 ```
 
 ## Research program
